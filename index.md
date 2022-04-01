@@ -16,10 +16,7 @@ Pour revenir au source j'ai toujours passionné par l'univers du Jeux-vidéo. Na
 C'est en quatrième que je démarre pour la première fois Unity avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- <h1> Premier pas sur Unity</h1>
-
-
+</html>
 Voici mon rendu:
 
 <!-- Mettre mon projet la UWU-->
@@ -27,4 +24,20 @@ Voici mon rendu:
 
 
 ### Jeux de Plateforme en 2D
-2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur **Unity**, lier les musiques , 
+2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur **Unity**, lier les musiques , animation fut une expérience très stimulante.
+### Projet Masterlab XXL: AKA MANTO
+Enfin un projet réellement intéressant,  après 2 semaines de conception en ligne et une semaine build voici le premier rendu aboutie.
+Akamanto est un <b>puzzle solver 3D</b> créer de **A à Z** par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie.
+Mon rôle était celui de la chargée de production et aida au <b>level design</b> ainsi qu'a la <b>programmation</b> .
+Ce fut le premier projet suivant le dérouler de <b>la création du concept</b> jusqu'à la réalisation**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqSTqA5jBDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+#
+Tout les projets qui suivront on été fait en **parallèle des cours** .
