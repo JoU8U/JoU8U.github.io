@@ -8,13 +8,11 @@ Ici Joelly 17 ans élève de terminale à Honoré de Balzac , ambassadrices de l
 <DOCTYPE html>
 <h1>Projet en lien au Jeux-Vidéo</h1>
 
-
-**
-
-### Premier pas sur Unity
+ <h1>Premier pas sur Unity</h1>
 Pour revenir au source j'ai toujours passionné par l'univers du Jeux-vidéo. Naturellement j'ai codé mes premiers petit jeux archaïques sur scratch en 5ème(pong, quizz, etc..).
 C'est en quatrième que je démarre pour la première fois Unity avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </html>
 Voici mon rendu:
@@ -23,8 +21,8 @@ Voici mon rendu:
 
 
 
-### Jeux de Plateforme en 2D
-2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur **Unity**, lier les musiques , animation fut une expérience très stimulante.
+ <h2>Jeux de Plateforme en 2D</h2>
+2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur <b>Unity</b>, lier les musiques , animation fut une expérience très stimulante.
 ### Projet Masterlab XXL: AKA MANTO
 Enfin un projet réellement intéressant,  après 2 semaines de conception en ligne et une semaine build voici le premier rendu aboutie.
 Akamanto est un <b>puzzle solver 3D</b> créer de **A à Z** par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie.
