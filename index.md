@@ -8,7 +8,7 @@ Ici Joelly 17 ans élève de terminale à Honoré de Balzac , ambassadrices de l
 <DOCTYPE html>
 <h1>Projet en lien au Jeux-Vidéo</h1>
 
- <h1>Premier pas sur Unity</h1>
+ <h2>Premier pas sur Unity</h2>
 Pour revenir au source j'ai toujours passionné par l'univers du Jeux-vidéo. Naturellement j'ai codé mes premiers petit jeux archaïques sur scratch en 5ème(pong, quizz, etc..).
 C'est en quatrième que je démarre pour la première fois Unity avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
