@@ -41,9 +41,17 @@ Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu
   <br>
 
 <h1>Première GamJAm: Kokastu</h1>
- Realisé durant 24h au Tumo paris durant les vacances de la toussaint. Kokastu est un <b>walking simulateur</b> où le joueur ce reveille dans son lycée devastée.
+ Realisé durant 24h à Tumo paris durant les vacances de la toussaint. Kokastu est un <b>walking simulateur</b> où le joueur ce reveille dans son lycée devastée.
  Une de nos grandes inspirations fut le jeux détention.
-
+<br>
+ <br>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/ltZEjF6t_Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br>
+  <br>
+ 
+ <h1>Première GamJAm: Kokastu</h1>
+ Realisé durant 24h à Tumo paris durant les vacances de la toussaint. Kokastu est un <b>walking simulateur</b> où le joueur ce reveille dans son lycée devastée.
+ Une de nos grandes inspirations fut le jeux détention.
 
 
 
