@@ -9,7 +9,7 @@ Pour revenir au source j'ai toujours passionné par l'univers du Jeux-vidéo. Na
 C'est en quatrième que je démarre pour la première fois Unity avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
 <DOCTYPE html>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A?start=169" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </html>
 
 
