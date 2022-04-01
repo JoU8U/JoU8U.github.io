@@ -15,24 +15,30 @@ Le but était de crée une petite cinématique semblable à celle de l'ouverture
  <br></br>
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <br></br>
+ <br>
+  <br>
+   <br>
+    <br>
 Voici mon rendu:
 
 <!-- Mettre mon projet la UWU-->
 
 
-<br></br>
+<br>
+ <br> 
+  <br>
+   <br>
  <h2>Jeux de Plateforme en 2D</h2>
 2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur <b>Unity</b>, lier les musiques , animation fut une expérience très stimulante.
 ### Projet Masterlab XXL: AKA MANTO
 Enfin un projet réellement intéressant,  après 2 semaines de conception en ligne et une semaine build voici le premier rendu aboutie.
-Akamanto est un <b>puzzle solver 3D</b> créer de **A à Z** par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie.
+Akamanto est un <b>puzzle solver 3D</b> créer de <b>A à Z</b> par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie.
 Mon rôle était celui de la chargée de production et aida au <b>level design</b> ainsi qu'a la <b>programmation</b> .
-Ce fut le premier projet suivant le dérouler de <b>la création du concept</b> jusqu'à la réalisation**
+Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu'à la réalisation</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqSTqA5jBDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+dfh
 
 
 
