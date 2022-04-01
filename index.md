@@ -47,6 +47,7 @@ Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ltZEjF6t_Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br>
+ <a href="https://tumoparis.github.io/TravauxJV/LabIII/Kokatsu/index.html">Le jeux est jouable ici</a>.
   <br>
  
  <h1>Première GamJAm: Kokastu</h1>
