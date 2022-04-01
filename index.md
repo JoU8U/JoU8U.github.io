@@ -12,7 +12,7 @@ Ici Joelly 17 ans élève de terminale à Honoré de Balzac , ambassadrices de l
 Pour revenir au source j'ai toujours passionné par l'univers du Jeux-vidéo. Naturellement j'ai codé mes premiers petit jeux archaïques sur scratch en 5ème(pong, quizz, etc..).
 C'est en quatrième que je démarre pour la première fois Unity avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
- <br></br>
+ <br>
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br>
@@ -36,13 +36,16 @@ Akamanto est un <b>puzzle solver 3D</b> créer de <b>A à Z</b> par une équipe 
 Mon rôle était celui de la chargée de production et aida au <b>level design</b> ainsi qu'a la <b>programmation</b> .
 Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu'à la réalisation</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqSTqA5jBDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+ <br>
+  <br>
 
 
-dfh
 
 
 
 
 
-#
-Tout les projets qui suivront on été fait en **parallèle des cours** .
+
+ <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
+ oka
