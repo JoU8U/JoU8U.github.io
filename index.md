@@ -9,8 +9,8 @@ Ici Joelly 17 ans élève de terminale à Honoré de Balzac , ambassadrices de l
 <h1>Projet en lien au Jeux-Vidéo</h1>
 
  <h2>Premier pas sur Unity</h2>
-Pour revenir au source j'ai toujours passionné par l'univers du Jeux-vidéo. Naturellement j'ai codé mes premiers petit jeux archaïques sur scratch en 5ème(pong, quizz, etc..).
-C'est en quatrième que je démarre pour la première fois Unity avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
+Pour revenir au source j'ai toujours été une passionnée par de Jeux-vidéo. Naturellement j'ai codé mes premiers petit jeux archaïques sur scratch en 5ème(pong, quizz, etc..).
+ C'est en quatrième que je démarre pour la première fois <b>Unity</b> avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
  <br>
 
@@ -40,7 +40,9 @@ Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu
  <br>
   <br>
 
-
+<h1>Première GamJAm: Kokastu</h1>
+ Realisé durant 24h au Tumo paris durant les vacances de la toussaint. Kokastu est un <b>walking simulateur</b> où le joueur ce reveille dans son lycée devastée.
+ Une de nos grandes inspirations fut le jeux détention.
 
 
 
