@@ -32,40 +32,9 @@ Enfin un projet réellement complet,après 2 semaines de conception en ligne et 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqSTqA5jBDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>Première GameJAm: Kokastu</h2>
  Realisé durant 24h à Tumo paris durant les vacances de la toussaint. Kokastu est un walking simulateur 
 où le joueur ce réveille dans son lycée dévastée. Une de nos grandes inspirations fut le jeu détention.
-
 <br>
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ltZEjF6t_Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,6 +44,8 @@ où le joueur ce réveille dans son lycée dévastée. Une de nos grandes inspir
  <h2>Deuxième GameJAm: Dedale</h2>
 Durant le festival Ready>Player les forums des images a organisé avec TUMO et Jehanne Rousseau une
 GameJam sur le théme de "l'entraide."
+<br>
+![maisthéseevous](https://user-images.githubusercontent.com/79055879/161382620-f724831b-6671-4289-bb4a-eab1fd02e1e7.PNG)
   <br>
  <a href="https://tumoparis.github.io/TravauxJV/GameJam/Dedale/index.html">Le jeux est jouable ici</a>.
 <br>
@@ -83,9 +54,4 @@ GameJam sur le théme de "l'entraide."
  Je suis actuellement en reflexion avec des amis pour creer par nous même un jeu vidéo sous rpg maker ou unity. Nous avons deja quelque concept-art
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
-
- 
- 
- 
- ![maisthéseevous](https://user-images.githubusercontent.com/79055879/161382620-f724831b-6671-4289-bb4a-eab1fd02e1e7.PNG)
 
