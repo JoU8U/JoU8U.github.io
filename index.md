@@ -82,3 +82,4 @@ GameJam sur le théme de "l'entraide."
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
 <img src="https://www.cjoint.com/c/LDcmcdOUvou" alt="">
+ fd
