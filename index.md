@@ -8,7 +8,6 @@ Ce petit site a pour but de rentrer plus en détail dans les projets que j'ai pu
 
 
 
-<DOCTYPE html>
 <h1>Projet en lien au Jeux-Vidéo</h1>
 
  <h2>Premier pas sur Unity</h2>
