@@ -1,7 +1,9 @@
 # Mon Portfolio
 **Bienvenue dans mon portfolio!!**
-Ce petit site a pour but de rentrer plus en détail dans les projets que j'ai pu mener jusqu'à aujourd'hui. Ici Joelly 17 ans élève de terminal au lycée international Honoré de Balzac, ambassadrices de l'association Becomtech et étudiante depuis son ouverture à Paris de l'école du numérique TUMO .
- .
+Ce petit site a pour but de rentrer plus en détail dans les projets que j'ai pu mener jusqu'à aujourd'hui. Ici Joelly 17 ans élève de terminal au lycée international Honoré de Balzac, ambassadrices de l'association Becomtech et étudiante depuis son ouverture à Paris de l'école du numérique TUMO.
+
+
+
 ![maisthéseevous](https://user-images.githubusercontent.com/79055879/161382620-f724831b-6671-4289-bb4a-eab1fd02e1e7.PNG)
 
 
@@ -74,12 +76,15 @@ Durant le festival Ready>Player les forums des images a organisé avec TUMO et J
 GameJam sur le théme de "l'entraide."
   <br>
  <a href="https://tumoparis.github.io/TravauxJV/GameJam/Dedale/index.html">Le jeux est jouable ici</a>.
-<img src="C:\Users\joell\Desktop\maisthéseevous.PNG" alt="">
 <br>
  <br>
  <h3> Plus petit projet </h3>
  Je suis actuellement en reflexion avec des amis pour creer par nous même un jeu vidéo sous rpg maker ou unity. Nous avons deja quelque concept-art
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
-<img src="https://www.cjoint.com/c/LDcmcdOUvou" alt="">
- fd
+
+ 
+ 
+ 
+ ![maisthéseevous](https://user-images.githubusercontent.com/79055879/161382620-f724831b-6671-4289-bb4a-eab1fd02e1e7.PNG)
+
