@@ -81,5 +81,4 @@ GameJam sur le théme de "l'entraide."
  Je suis actuellement en reflexion avec des amis pour creer par nous même un jeu vidéo sous rpg maker ou unity. Nous avons deja quelque concept-art
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
- 
-
+<img src="https://www.cjoint.com/c/LDcmcdOUvou" alt="Italian Trulli">
