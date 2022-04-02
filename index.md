@@ -10,7 +10,7 @@ Ici Joelly 17 ans élève de terminale à Honoré de Balzac , ambassadrices de l
 
  <h2>Premier pas sur Unity</h2>
 Pour revenir au source j'ai toujours été une passionnée par de Jeux-vidéo. Naturellement j'ai codé mes premiers petit jeux archaïques sur scratch en 5ème(pong, quizz, etc..).
- C'est en quatrième que je démarre pour la première fois <b>Unity</b> avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris.
+ C'est en quatrième que je démarre pour la première fois <b>Unity</b> avec la création d'un monde en 3D et la gestion d'une caméra . Ce projet a été réalisé a l'occasion du Lab I de jeux vidéo a TUMO Paris (environ 2017).
 Le but était de crée une petite cinématique semblable à celle de l'ouverture de Zelda ocarina of time
  <br>
 
@@ -33,6 +33,16 @@ Voici mon rendu:
   <br>
    <br>
  <h2>Jeux de Plateforme en 2D</h2>
+ <br> 
+  <br>
+   <br>
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/iJgEP-1KLqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ Rendu type
+ 
+ <br> 
+  <br>
+   <br>
 2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur <b>Unity</b>, lier les musiques , animation fut une expérience très stimulante.
 <br> 
   <br>
