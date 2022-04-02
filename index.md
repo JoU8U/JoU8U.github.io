@@ -77,6 +77,8 @@ GameJam sur le théme de "l'entraide."
 
 <br>
  <br>
+ <h3> Plus petit projet </h3>
+ Je suis actuellement en reflexion avec des amis pour creer par nous même un jeu vidéo sous rpg maker ou unity. Nous avons deja quelque concept-art
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
  
