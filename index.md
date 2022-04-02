@@ -42,6 +42,9 @@ Enfin un projet réellement intéressant,  après 2 semaines de conception en li
 Akamanto est un <b>puzzle solver 3D</b> créer de <b>A à Z</b> par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie.
 Mon rôle était celui de la chargée de production et aida au <b>level design</b> ainsi qu'a la <b>programmation</b> .
 Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu'à la réalisation</b>
+<br>
+ <br>
+  <br> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqSTqA5jBDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
  <br>
