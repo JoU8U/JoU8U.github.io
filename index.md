@@ -50,7 +50,7 @@ Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu
  <br>
   <br>
 
-<h1>Première GamJAm: Kokastu</h1>
+<h2>Première GamJAm: Kokastu</h2>
  Realisé durant 24h à Tumo paris durant les vacances de la toussaint. Kokastu est un <b>walking simulateur</b> où le joueur ce reveille dans son lycée devastée.
  Une de nos grandes inspirations fut le jeux détention.
 <br>
@@ -59,11 +59,6 @@ Ce fut le premier projet suivant le dérouler de <b>la création du conceptjusqu
  <br>
  <a href="https://tumoparis.github.io/TravauxJV/LabIII/Kokatsu/index.html">Le jeux est jouable ici</a>.
   <br>
- 
- <h2>Première GamJAm: Kokastu</h2>
- Realisé durant 24h à Tumo paris durant les vacances de la toussaint. Kokastu est un <b>walking simulateur</b> où le joueur ce reveille dans son lycée devastée.
- Une de nos grandes inspirations fut le jeux détention.
- 
  <h2>Deuxième GamJAm: Dedale</h2>
 Durant le festival Ready>Player les forums des images a organisé avec TUMO et Jehanne Rousseau une GameJam sur le théme de "l'entraide"
   <br>
