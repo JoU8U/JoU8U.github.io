@@ -37,6 +37,9 @@ Enfin un projet réellement complet,après 2 semaines de conception en ligne et 
 où le joueur ce réveille dans son lycée dévastée. Une de nos grandes inspirations fut le jeu détention.
 <br>
  <br>
+![kokastumoodboard](https://user-images.githubusercontent.com/79055879/161384549-a52ec55e-2d09-4105-8ca4-c69bdb72d2ac.png)
+<br>
+ <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ltZEjF6t_Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br>
  <a href="https://tumoparis.github.io/TravauxJV/LabIII/Kokatsu/index.html">Le jeux est jouable ici</a>.
