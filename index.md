@@ -4,9 +4,6 @@ Ce petit site a pour but de rentrer plus en détail dans les projets que j'ai pu
 
 
 
-![maisthéseevous](https://user-images.githubusercontent.com/79055879/161382620-f724831b-6671-4289-bb4a-eab1fd02e1e7.PNG)
-
-
 
 <h1>Projet en lien au Jeux-Vidéo</h1>
 
@@ -18,47 +15,52 @@ Pour revenir au source j'ai toujours été une passionnée par de Jeux-vidéo
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Fi8bfP1f68A?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br>
-  <br>
-   <br>
-    <br>
 Voici mon rendu:
- <br>
- <br>
- 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Vsyp9Dn9WQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- Mettre mon projet la UWU-->
-
-
-<br>
  <br> 
-  <br>
-   <br>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Vsyp9Dn9WQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
  <h2>Jeux de Plateforme en 2D</h2>
  <br> 
-  <br>
-   <br>
- 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/iJgEP-1KLqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iJgEP-1KLqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  Rendu type
- 
- <br> 
-  <br>
-   <br>
+<br>
 2 mois, après avoir réalisé la première cinématique, je passe du coter code en C++ et C# et
  réalise mon premier jeux fonctionnel sur Unity, lier les musiques , animation fut une expérience très stimulante.
 <br> 
-  <br>
-   <br>
 <h2> Projet Masterlab XXL: AKA MANTO</h2>
 Enfin un projet réellement complet,après 2 semaines de conception en ligne et une semaine build voici le premier rendu aboutie. Akamanto est un puzzle solver 3D créer de A à Z par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie. Mon rôle était celui de la chargée de production et aida au level design ainsi qu'à la programmation. Ce fut le premier projet suivant le dérouler de la création complète (du concept jusqu'à la réalisation). C'est une de mes meilleures experiences!!
 <br>
- <br>
-  <br> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqSTqA5jBDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
- <br>
-  <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Première GameJAm: Kokastu</h2>
  Realisé durant 24h à Tumo paris durant les vacances de la toussaint. Kokastu est un walking simulateur 
