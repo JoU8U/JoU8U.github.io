@@ -2,6 +2,7 @@
 **Bienvenue dans mon portfolio!!**
 Ce petit site a pour but de rentrer plus en détail dans les projets que j'ai pu mener jusqu'à aujourd'hui. Ici Joelly 17 ans élève de terminal au lycée international Honoré de Balzac, ambassadrices de l'association Becomtech et étudiante depuis son ouverture à Paris de l'école du numérique TUMO .
  .
+![maisthéseevous](https://user-images.githubusercontent.com/79055879/161382620-f724831b-6671-4289-bb4a-eab1fd02e1e7.PNG)
 
 
 
