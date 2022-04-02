@@ -34,7 +34,10 @@ Voici mon rendu:
    <br>
  <h2>Jeux de Plateforme en 2D</h2>
 2 mois après avoir réaliser la première cinématique, je passe du coter code en C++ et C#  et réalise mon premier jeux fonctionnel sur <b>Unity</b>, lier les musiques , animation fut une expérience très stimulante.
-### Projet Masterlab XXL: AKA MANTO
+<br> 
+  <br>
+   <br>
+<h2> Projet Masterlab XXL: AKA MANTO</h2>
 Enfin un projet réellement intéressant,  après 2 semaines de conception en ligne et une semaine build voici le premier rendu aboutie.
 Akamanto est un <b>puzzle solver 3D</b> créer de <b>A à Z</b> par une équipe de 12 étudiants agée de 14 à 19 ans donc je fais partie.
 Mon rôle était celui de la chargée de production et aida au <b>level design</b> ainsi qu'a la <b>programmation</b> .
