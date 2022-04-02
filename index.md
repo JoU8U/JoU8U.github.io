@@ -73,8 +73,7 @@ Durant le festival Ready>Player les forums des images a organisé avec TUMO et J
 GameJam sur le théme de "l'entraide."
   <br>
  <a href="https://tumoparis.github.io/TravauxJV/GameJam/Dedale/index.html">Le jeux est jouable ici</a>.
-
-
+<img src="C:\Users\joell\Desktop\maisthéseevous.PNG" alt="">
 <br>
  <br>
  <h3> Plus petit projet </h3>
