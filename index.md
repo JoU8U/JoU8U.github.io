@@ -64,11 +64,13 @@ GameJam sur le théme de "l'entraide."
 Je joue du ukulele depuis bientot 2 ans, je l'apprends en autoditacte. Je pratiquais par le passée la guitare.
  <h2>Lab 1 tumo musique</h2>
  ![Capture](https://user-images.githubusercontent.com/79055879/162430634-be6fb6f6-0d4e-4c09-ac59-3d0d07a64c64.PNG)
- J'ai composé sur une application en ligne un remix de l'openeing d'evangelion *cruel angel's thesis*.
+ J'ai composé sur une application en ligne (audiotool) un remix de l'openeing d'evangelion *cruel angel's thesis*.
  disponible <a href=" https://www.audiotool.com/user/joellyhuin75_gmail_com/tracks
 ">ici</a>
 
  <h2>Lab 2 tumo musique</h2>
+ ![morceau](https://user-images.githubusercontent.com/79055879/162431448-0c055294-4ce4-4e09-bc82-6564ffb6fe7b.PNG)
+
   J'ai composé sur l'application en ligne un morceau original, avec des samples et boucles.
 
 
