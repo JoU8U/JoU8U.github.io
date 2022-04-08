@@ -58,6 +58,10 @@ GameJam sur le théme de "l'entraide."
  
  
  ![oui](https://user-images.githubusercontent.com/79055879/161384162-1d319f97-fb47-419c-a57e-afeea032fa71.PNG)
+ 
+ #Projet en lien avec la musique
+ <h2> Ukulele et Guitare</h2>
+Je joue du ukulele depuis bientot 2 ans, je l'apprends en autoditacte. Je pratiquais par le passée la guitare.
 
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
