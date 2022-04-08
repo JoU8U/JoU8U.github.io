@@ -62,6 +62,8 @@ GameJam sur le théme de "l'entraide."
  <h1>Projet en lien avec la musique</h1>
  <h2> Ukulele et Guitare</h2>
 Je joue du ukulele depuis bientot 2 ans, je l'apprends en autoditacte. Je pratiquais par le passée la guitare.
+ <h2>Lab 1 tumo musique</h2>
+ J'ai composé sur une application en ligne un remix de l'openeing d'evangelion *cruel angel's thesis*.
 
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
