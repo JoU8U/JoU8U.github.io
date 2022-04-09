@@ -76,9 +76,9 @@ Je joue du ukulele depuis bientot 2 ans, je l'apprends en autoditacte. Je pratiq
 
  <b>Tout les projets qui suivront on été fait en parallèle des cours.</b>
  <h2>Lab 2 tumo musique</h2>
-  <h2>Lab 2 tumo musique</h2>
-   <h2>Lab 2 tumo musique</h2>
-    <h2>Lab 2 tumo musique</h2>
-     <h2>Lab 2 tumo musique</h2>
-      <h2>Lab 2 tumo musique</h2>
-       <h2>Lab 2 tumo musique</h2>
+ <h2>Lab 2 tumo musique</h2>
+ <h2>Lab 2 tumo musique</h2>
+ <h2>Lab 2 tumo musique</h2>
+ <h2>Lab 2 tumo musique</h2>
+ <h2>Lab 2 tumo musique</h2>
+ <h2>Lab 2 tumo musique</h2>
