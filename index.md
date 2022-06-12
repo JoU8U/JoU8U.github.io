@@ -80,3 +80,6 @@ Je joue du ukulele depuis bientot 2 ans, je l'apprends en autoditacte. Je pratiq
 J'ai pu rejoindre cette association a la suite du sensibilisation en ligne, j'ai tout de suite voulu rejoindre leur formation **JUMP IN TECH**.
 Cela fut pour moi une semaine incroyable immerger dans la **programmation** et l'apprentissage de **soft skill**.
 J'ai donc pu obtenir **le titre d'ambassadrices BECOMTECH** à la suite de **JUMP IN TECH**
+<h2>discovertech et sensibilisation</h2>
+Après avec suivi cette formation, j'ai 
+
