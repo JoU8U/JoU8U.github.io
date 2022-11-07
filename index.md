@@ -72,6 +72,8 @@ Je joue du ukulele depuis bientot 2 ans, je l'apprends en autoditacte. Je pratiq
  ![morceau](https://user-images.githubusercontent.com/79055879/162431448-0c055294-4ce4-4e09-bc82-6564ffb6fe7b.PNG)
 
   J'ai composé sur l'application en ligne un morceau original, avec des samples et boucles.
+  <h2>PGW 2022</h2>
+  A l'occasion du partenariat entre tiktok et Tumo, un des jeux issues de la game jam de ready<Player c'est retouvé propulser sur une borne a la PGW sur le grand stand de tiktok au coté de Sonic Frontiers ou FIFA 23
 
 
 
