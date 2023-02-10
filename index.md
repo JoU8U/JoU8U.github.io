@@ -1,7 +1,7 @@
 # Mon Portfolio
 **Bienvenue dans mon portfolio!!**
 Ce petit site a pour but de rentrer plus en détail dans les projets que j'ai pu mener jusqu'à aujourd'hui. Ici Joelly 17 ans élève de terminal au lycée international Honoré de Balzac, ambassadrices de l'association Becomtech et étudiante depuis son ouverture à Paris de l'école du numérique TUMO.
-f(n)=	$\frac{1}{sqrt{5}}(\phi^n-\hat{phi})$
+f(n)=	$\frac{1}{\sqrt{5}}(\phi^n-\hat{\phi^n})$
 $\phi=\frac{1+}=\frac{1-sqrt(5)}{2}
 
 
